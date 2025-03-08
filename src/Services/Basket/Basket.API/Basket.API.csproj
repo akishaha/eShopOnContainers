@@ -14,8 +14,8 @@
   </ItemGroup>
 
   <ItemGroup>   
-    <PackageReference Include="System.IdentityModel.Tokens.Jwt" Version="6.12.2" />
-	  <PackageReference Include="Azure.Identity" Version="1.5.0-beta.3" />
+    <PackageReference Include="System.IdentityModel.Tokens.Jwt" Version="6.35.0" />
+	  <PackageReference Include="Azure.Identity" Version="1.11.4" />
     <PackageReference Include="AspNetCore.HealthChecks.AzureServiceBus" Version="5.1.1" />
     <PackageReference Include="AspNetCore.HealthChecks.Rabbitmq" Version="5.0.1" />
     <PackageReference Include="AspNetCore.HealthChecks.Redis" Version="5.0.2" />
@@ -29,7 +29,7 @@
 	  <PackageReference Include="Microsoft.ApplicationInsights.AspNetCore" Version="2.18.0" />
     <PackageReference Include="Microsoft.ApplicationInsights.DependencyCollector" Version="2.18.0" />
     <PackageReference Include="Microsoft.ApplicationInsights.Kubernetes" Version="2.0.2-beta2" />
-    <PackageReference Include="Microsoft.AspNetCore.Authentication.JwtBearer" Version="6.0.0" />
+    <PackageReference Include="Microsoft.AspNetCore.Authentication.JwtBearer" Version="6.0.36" />
     <PackageReference Include="Microsoft.AspNetCore.Diagnostics.HealthChecks" Version="2.2.0" />
     <PackageReference Include="Microsoft.AspNetCore.HealthChecks" Version="1.0.0" />
     <PackageReference Include="Microsoft.AspNetCore.Mvc.NewtonsoftJson" Version="6.0.0" />
